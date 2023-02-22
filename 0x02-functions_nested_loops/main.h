@@ -36,4 +36,13 @@ int print_last_digit(int x);
 
 void jack_bauer(void);
 /* prints the hours and minutes in a day */
+
+void times_table(void);
+/* 9 times table */
+
+int add(int x, int y);
+/* sum of two ints*/
+
+void print_to_98(int n);
+/* print from n to 98 */
 #endif
