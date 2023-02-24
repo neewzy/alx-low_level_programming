@@ -56,4 +56,25 @@ int _isdigit(int c);
 
 int mul(int a, int b);
 /* multiplies two ints*/
+
+void print_numbers(void);
+/* print nums from 0-9*/
+
+void print_most_numbers(void);
+/* print nums from 0-9 except 2 and 4*/
+
+void more_numbers(void);
+/* prints 10 rows of nums from 0-14)*/
+
+void print_line(int n);
+/* print line 'n' number of times*/
+
+void print_diagonal(int n);
+/* print diagonal lines 'n' number of times*/
+
+void print_square(int size);
+/* print squares 'n' number of times*/
+
+void print_triangle(int size);
+/* print triangle*/
 #endif
